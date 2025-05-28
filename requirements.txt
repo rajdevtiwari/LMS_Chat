@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn
+python-docx
+scikit-learn
+pandas
+nltk 
